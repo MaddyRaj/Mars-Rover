@@ -1,5 +1,3 @@
-# MAKE A TEST CLASS FOR THIS CLASS!!!!!!!!!!
-
 # The purpose of the class below was to be able to track the position of a mars rover, based on the direction and the co-ordinates given.
 def Mars_Rover():
     # The purpose of this method was to take the letter, which would be either left or right, and the position, which 
